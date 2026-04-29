@@ -8,4 +8,4 @@ For any questions or inquiries regarding the V2X-ADB dataset, please contact jai
 
 # Download link
 
-TBD
+You can download the dataset [here](https://opendatasets.vicomtech.org/di21-v2x-adb/f47d2a76).
